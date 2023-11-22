@@ -1,2 +1,3 @@
-# WonderWomanCV
-Udemy - WebAppDevBootCamp - Project 1 - HTML practice
+# Wonder Woman CV
+Udemy Course WebAppDevBootcamp by Angela Yu 
+Capstone Project 1 - Online CV
