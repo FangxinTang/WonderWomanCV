@@ -1,2 +1,2 @@
 # WonderWomanCV
-WebAppDevBootCamp - Project 1 - HTML practice
+Udemy - WebAppDevBootCamp - Project 1 - HTML practice
